@@ -45,6 +45,7 @@ const alumni = [
 2. Write a function named `associateInstructors` that takes an array of objects and returns an array of only the objects where the job property is equal to "Marcy Lab School". 
     
     ```jsx
+    associateInstructors(alumni) //returns
     [
      {
         name: 'Carmen',
