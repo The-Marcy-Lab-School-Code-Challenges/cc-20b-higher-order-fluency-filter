@@ -30,13 +30,15 @@ const alumni = [
 ```
 
 
-1. Write a function named `ninetiesBabies` that takes an array of objects and returns an array of only the objects where the age property is larger than 21.
+1. Write a function named `ninetiesBabies` that takes an array of objects and returns an array of only the objects where the age property is larger than 22.
     
     ```jsx
     ninetiesBabies(alumni) // returns [
-    { name: 'Jarrit', job: 'TPT', language: 'JavaScript', age: 22 },
-    { name: 'Devonte', job: 'WW', language: 'JavaScript', age: 23 },
-    { name: 'Shemar', job: 'SquareSpace', language: 'JavaScript', age: 23 }
+    { name: 'Jarrit', job: 'TPT', language: 'JavaScript', age: 23 },
+    { name:'Stephanie', job:'JPMorgan',language:'JavaScript', age:24 },
+    { name: 'Shemar', job: 'SquareSpace', language: 'JavaScript', age: 23 },
+    { name:'Enmanuel', job:'Asana',language:'JavaScript', age:23 },
+    ...
     ]
     ```
 ---
